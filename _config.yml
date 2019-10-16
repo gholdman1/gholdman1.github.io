@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gregory Holdman"
-  avatar           : "/images/casual_square.png"
+  avatar           : "casual_square.png"
   bio              : "Developing Mid-Infrared Photonic Structures, Physics PhD Candidate"
   location         : "Madison, WI"
   employer         :
