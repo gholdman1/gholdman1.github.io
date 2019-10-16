@@ -20,4 +20,4 @@ Past Research
 
 Bilayer Graphene and Scanning Tunneling Microscopy
 ------
-Info on the topic.
+Bilayer graphene is a material that is uniquely poised to bring about monumental changes in fundamental physics, applied physics, and technology. However, many of its properties that require greater understanding can only be measured with a scanning tunneling microscope. This microscope uses a metal tip to image individual atoms, but must get very close to do so. In the case of bilayer graphene, the proximity of the tip alters the properties of this material. In [our first publication on this topic](https://gholdman1.github.io/publication/blg-in-stm), we explore the nature of this invasive probe.
