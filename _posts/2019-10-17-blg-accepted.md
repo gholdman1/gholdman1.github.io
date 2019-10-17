@@ -1,6 +1,5 @@
 ---
 title: 'Bilayer Graphene Paper Accepted at APL!'
-=======
 date: 2019-10-17
 permalink: /posts/2019/10/blg-accepted/
 tags:
