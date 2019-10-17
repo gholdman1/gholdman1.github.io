@@ -10,3 +10,4 @@ citation: 'Gregory R. Holdman, Zachary J. Krebs, Wyatt A. Behn, Keenan J. Smith,
 ---
 This work explores the challenging nature of measuring bilayer graphene using a scanning probe such as an STM. The probe produces an electric field which actually changes the bandstructure of bilayer graphene.
 
+ACCEPTED FOR PUBLICATION IN APPLIED PHYSICS LETTERS
