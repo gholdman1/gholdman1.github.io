@@ -12,8 +12,7 @@ Explore my research in photonic structures and condensed matter physics.
 
 Mid-Infrared Light Sources
 ======
-Mid-infrared light sources are easy to find. Any object at room temperature emits light mainly in the mid-infrared region of the electromagnetic spectrum, about 2-25 microns in wavelength. What is not so easy to find is a source of mid-infrared light that emits at a single wavelength. Even more difficult still is a source whose emission wavelength can be changed simply by turning a knob. My work focuses on improving upon the efforts put forth so far to create such a device.
-
+Mid-infrared light sources are easy to find. Any object at room temperature emits light mainly in the mid-infrared region of the electromagnetic spectrum, (2-25 microns in wavelength). However, light is emitted from these objects at *all* wavelengths. In some cases, it is more desirable to have a source of mid-infrared light that emits at a single wavelength which can be selected by turning a knob. [Michelson Interferometers](https://en.wikipedia.org/wiki/Michelson_interferometer) and [Quantum Cascade Lasers](https://en.wikipedia.org/wiki/Quantum_cascade_laser) are already capable of this, but the former is bulky and the latter is too expensive to be commonly used. My work focuses on creating a device that is both smaller and cheaper than the existing technology.
 
 Past Research
 ======
