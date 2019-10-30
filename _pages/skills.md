@@ -11,12 +11,12 @@ redirect_from:
 
 Computing
 ======
-
-Programming Languages: Python, C++, Bash
-Computation Software: Matlab, Mathematica, Octave, Python (Scipy stack)
-Operating Systems: Linux(Ubuntu, Ubuntu Server, Debian), Windows 10
-Simulation Software: Lumerical FDTD
-Version Control Systems: git
+|:---|---|
+|Programming Languages| Python, C++, Bash|
+|Computation Software| Matlab, Mathematica, Octave, Python (Scipy stack)|
+|Operating Systems| Linux(Ubuntu, Ubuntu Server, Debian), Windows 10|
+|Simulation Software| Lumerical FDTD
+|Version Control Systems| git|
 
 Fabrication
 ======
