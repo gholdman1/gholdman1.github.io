@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "skills"
+title: "Skills"
 permalink: /skills/
 author_profile: true
 redirect_from:
@@ -12,29 +12,16 @@ redirect_from:
 Computing
 ======
 
-Programming Languages
-------
-* Python
-* C++
-* Bash
-
-Simulation Software
-------
-* Lumerical FDTD
-
-Version Control Systems
-------
-* git
-
-Operating Systems
-------
-* Linux
-  * Ubuntu Server
-  * Debian
-* Windows 10
+Programming Languages: Python, C++, Bash
+Computation Software: Matlab, Mathematica, Octave, Python (Scipy stack)
+Operating Systems: Linux(Ubuntu, Ubuntu Server, Debian), Windows 10
+Simulation Software: Lumerical FDTD
+Version Control Systems: git
 
 Fabrication
 ======
 
-
+Metal Evaporation
+E-Beam Lithography
+Atomic Layer Deposition
 
