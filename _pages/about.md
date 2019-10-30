@@ -18,7 +18,7 @@ Mid-infrared light sources are easy to find. Any object at room temperature emit
 Graphene
 ------
 
-Any useful tunable thermal emitter must incorporate a material that changes the ay it interacts with light. Graphene is a prime example of such a material. The "optical conductivity" of graphene (another way of saying "the response of electrons in graphene to light") can be changed simply by hooking up a few wires and turning on a voltage.
+Any useful tunable thermal emitter must incorporate a material that changes the ay it interacts with light. Graphene is a prime example of such a material. The "optical conductivity" of graphene (another way of saying "the response of electrons in graphene to light") can be changed simply by hooking up a few wires and turning on a voltage. Moreover, this change mainly occurs in the mid-infrared region.
 
 Past Research
 ======
