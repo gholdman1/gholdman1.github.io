@@ -1,5 +1,4 @@
--
--
+---
 layout: archive
 title: "skills"
 permalink: /skills/
