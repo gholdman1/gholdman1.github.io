@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 [Computing](#Computing)
+
 [Fabrication](#Fabrication)
+
 [Material Characterization](#Material Characterization)
 
 Computing
@@ -26,9 +28,19 @@ Computing
 Fabrication
 ======
 
+Lithography
+------
+
 |:--- | --- |
-| Lithography | Photolithography, Electron Beam Lithography |
-| Deposition | Metal evaporation, Atomic Layer Deposition |
+| Photolithography | Photolithography, Electron Beam Lithography |
+| Electron Beam Lithography | |
+
+Deposition
+------
+
+|:--- | --- |
+| Metal Evaporation | * Deposited gold contacts |
+| Atomic Layer Deposition | * Organized qualification test of a Veeco Fiji G2 ALD System |
 
 Material Characterization
 ======
