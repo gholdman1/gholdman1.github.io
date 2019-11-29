@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Computing](#Computing)
+[Fabrication](#Fabrication)
+[Material Characterization](#Material Characterization)
+
 Computing
 ======
 
