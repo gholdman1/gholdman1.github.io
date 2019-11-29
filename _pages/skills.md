@@ -13,19 +13,39 @@ redirect_from:
 
 [Fabrication](#Fabrication)
 
-[Material Characterization](#Material Characterization)
 
 # Computing <a name="Computing"></a>
 
+## Version Control Systems
 
 |:--- | --- |
-| Programming Languages | Python, C++, Bash |
-| Computation Software | Matlab, Mathematica, Octave, Python (Scipy stack) |
-| Operating Systems | Linux(Ubuntu, Ubuntu Server, Debian), Windows 10 |
-| Simulation Software | <a href="https://www.lumerical.com/products/fdtd/" target="_blank">Lumerical FDTD</a> |
-| Version Control Systems| git |
+| git | * Managed personal projects across multiple computers via git |
 
-# Fabrication
+## Programming Languages
+
+|:--- | --- |
+| Python | * Used python to plot data |
+| C++ | * Used C++ to analyze simulated particle accelerator data |
+| Bash | * Managed Linux server with cron jobs written in Bash |
+
+## Computation & Simulation Software
+
+|:--- | --- |
+| <a href="https://www.lumerical.com/products/fdtd" target="_blank">Lumerical FDTD</a> | * Designed Photonic structures |
+| Matlab |  |
+| Mathematica |  |
+| Octave |  |
+| Python Scipy Stack |  |
+
+
+## Operating Systems
+
+
+|:--- | --- |
+| Ubuntu (Linux) | * Simultaneously managed three servers running Ubuntu server |
+| Windows 10 | * Extensive daily experience |
+
+# Fabrication <a name="Fabrication"></a>
 
 ## Lithography
 
