@@ -22,7 +22,12 @@ Computing
 Fabrication
 ======
 
-Metal Evaporation
-E-Beam Lithography
-Atomic Layer Deposition
+|:--- | --- |
+| Lithography | Photolithography, Electron Beam Lithography |
+| Deposition | Metal evaporation, Atomic Layer Deposition |
 
+Material Characterization
+======
+
+|:--- | --- |
+| Ellipsometry | J.A. Woollam UV-VIS |
