@@ -12,13 +12,10 @@ Explore my research in photonic structures and condensed matter physics.
 
 Mid-Infrared Light Sources
 ======
-Mid-infrared light sources are easy to find. Any object at room temperature emits light mainly in the mid-infrared region of the electromagnetic spectrum, (2-25 microns in wavelength). However, light is emitted from these objects at *all* wavelengths. In some cases, it is more desirable to have a source of mid-infrared light that emits at a single wavelength which can be selected by turning a knob. [Michelson Interferometers](https://en.wikipedia.org/wiki/Michelson_interferometer) and [Quantum Cascade Lasers](https://en.wikipedia.org/wiki/Quantum_cascade_laser) are already capable of this, but the former is bulky and the latter is too expensive to be commonly used. My work focuses on creating a device that is both smaller and cheaper than the existing technology.
+Mid-infrared light sources are easy to find. Any object at room temperature glows mainly in the mid-infrared region of the electromagnetic spectrum, (2-25 microns in wavelength). However, light is emitted from these objects at *all* wavelengths. In some cases, it is more useful to have a source of mid-infrared light that emits at a single wavelength. Even better is if that single wavelength can be selected by turning a knob. [Michelson Interferometers](https://en.wikipedia.org/wiki/Michelson_interferometer) and [Quantum Cascade Lasers](https://en.wikipedia.org/wiki/Quantum_cascade_laser) are already capable of this, but the former is bulky and the latter is too expensive to be commonly used. My work focuses on creating a device that is both smaller and cheaper than the existing technology.
 
 
-Graphene
-------
-
-Any useful tunable thermal emitter must incorporate a material that changes the way it interacts with light. Graphene is a prime example of such a material. The "optical conductivity" of graphene (another way of saying "the response of electrons in graphene to light") can be changed simply by hooking up a few wires and turning on a voltage. Moreover, this change mainly occurs in the mid-infrared region.
+Any useful tunable thermal emitter must incorporate a material that changes the way it interacts with light. **Graphene** is a prime example of such a material. Graphene's response to light can be changed simply by hooking up a few wires and turning on a voltage. Moreover, this change mainly occurs for light in the mid-infrared region.
 
 Past Research
 ======
