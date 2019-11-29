@@ -15,8 +15,8 @@ redirect_from:
 
 [Material Characterization](#Material Characterization)
 
-Computing
-======
+# Computing
+
 
 |:--- | --- |
 | Programming Languages | Python, C++, Bash |
@@ -25,25 +25,21 @@ Computing
 | Simulation Software | <a href="https://www.lumerical.com/products/fdtd/" target="_blank">Lumerical FDTD</a> |
 | Version Control Systems| git |
 
-Fabrication
-======
+# Fabrication
 
-Lithography
-------
+## Lithography
 
 |:--- | --- |
 | Photolithography | Photolithography, Electron Beam Lithography |
 | Electron Beam Lithography | |
 
-Deposition
-------
+## Deposition
 
 |:--- | --- |
 | Metal Evaporation | * Deposited gold contacts |
 | Atomic Layer Deposition | * Organized qualification test of a Veeco Fiji G2 ALD System |
 
-Material Characterization
-======
+## Material Characterization
 
 |:--- | --- |
 | Ellipsometry | J.A. Woollam UV-VIS |
