@@ -48,8 +48,8 @@ redirect_from:
 ## Distributed Computing
 
 |:--- | --- |
-| Condor | Ran thousands of computations simultaneously with Condor |
-| SLURM | Ran large FDTD Simlations with SLURM |
+| <a href="https://research.cs.wisc.edu/htcondor/" target="_blank">HTCondor Workload Manager</a> | Ran thousands of computations simultaneously with HTCondor |
+| <a href="https://slurm.schedmd.com/" target="_blank">SLURM Workload Manager</a> | Ran large FDTD Simlations with SLURM |
 
 # Fabrication <a name="Fabrication"></a>
 
