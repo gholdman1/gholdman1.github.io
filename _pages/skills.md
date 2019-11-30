@@ -46,9 +46,11 @@ redirect_from:
 | Windows 10 | Extensive daily experience |
 
 ## Distributed Computing
+
 |:--- | --- |
-| Condor |  |
-| SLURM |  |
+| Condor | Ran thousands of computations simultaneously with Condor |
+| SLURM | Ran large FDTD Simlations with SLURM |
+
 # Fabrication <a name="Fabrication"></a>
 
 ## Lithography
