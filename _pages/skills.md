@@ -19,19 +19,19 @@ redirect_from:
 ## Version Control Systems
 
 |:--- | --- |
-| git | * Managed personal projects across multiple computers via git |
+| git | Managed personal projects across multiple computers via git |
 
 ## Programming Languages
 
 |:--- | --- |
-| Python | * Used python to plot data |
-| C++ | * Used C++ to analyze simulated particle accelerator data |
-| Bash | * Managed Linux server with cron jobs written in Bash |
+| Python | Used python to plot data |
+| C++ | Used C++ to analyze simulated particle accelerator data |
+| Bash | Managed Linux server with cron jobs written in Bash |
 
-## Computation & Simulation Software
+## Mathematical & Simulation Software
 
 |:--- | --- |
-| <a href="https://www.lumerical.com/products/fdtd" target="_blank">Lumerical FDTD</a> | * Designed Photonic structures |
+| <a href="https://www.lumerical.com/products/fdtd" target="_blank">Lumerical FDTD</a> | Designed Photonic structures |
 | Matlab |  |
 | Mathematica |  |
 | Octave |  |
@@ -42,9 +42,13 @@ redirect_from:
 
 
 |:--- | --- |
-| Ubuntu (Linux) | * Simultaneously managed three servers running Ubuntu server |
-| Windows 10 | * Extensive daily experience |
+| Ubuntu (Linux) | Simultaneously managed three servers running Ubuntu server |
+| Windows 10 | Extensive daily experience |
 
+## Distributed Computing
+|:--- | --- |
+| Condor |  |
+| SLURM |  |
 # Fabrication <a name="Fabrication"></a>
 
 ## Lithography
